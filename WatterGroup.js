@@ -7,7 +7,7 @@ import { Utils } from "./api/Utils";
 var id = "Watter_group";
 var name = "Watter Group";
 var description = "Hello: Im do creating a theory avaiable for visual studio code i think now these html from older version. \nJavascript coding after version at get show platform theory hats reach 1e150 tau! \nChangelog: \nv1.0.0: \nRelease! \n\nGo missng at endgame for 1e1500 rho and finsh theory \nNew Content Coming Soon...";
-var authors = "Throngjwk";
+var authors = "Annontations6";
 var version = "1.0.0";
 
 var currency;
