@@ -214,5 +214,6 @@ var getT2 = (level) => BigNumber.from(1 + 0.5 * level);
 var getT3 = (level) => BigNumber.from(0 + 0.15 * level);
 var getC1Exponent = (level) => BigNumber.from(1 + 0.05 * level);
 var getC2Exponent = (level) => BigNumber.from(1 + 0.05 * level);
+var getDTExponent = (level) => BigNumber.from(1 + 0.1 * level);
 
 init();
